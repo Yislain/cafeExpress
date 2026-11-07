@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBCGOZwx_rg6ONHBttwbW2F_c0HFlV1v54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>439594538543</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cafeExpress</string>
+	<key>PROJECT_ID</key>
+	<string>cafeexpress-a3b7b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cafeexpress-a3b7b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:439594538543:ios:da406c34e81cd8e8e918da</string>
+</dict>
+</plist>

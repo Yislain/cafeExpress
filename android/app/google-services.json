@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439594538543",
+    "project_id": "cafeexpress-a3b7b",
+    "storage_bucket": "cafeexpress-a3b7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439594538543:android:72d4ac8a2290ea92e918da",
+        "android_client_info": {
+          "package_name": "com.example.cafe_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKiHvTXWw8tfZJmxMNRsT2PZQBmgc25g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
